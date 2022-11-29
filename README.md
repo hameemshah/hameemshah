@@ -5,7 +5,7 @@
 - 📫 E-Mail at hameemhussain@yahoo.com
 - 🎧 I like pop music.
 - 🫧 I prefer people with charisma, good communication skills, confident and opinionated.
-- 🤮 I hate serious relationships and temporary friendships.
+- 🤮 I hate people who always judge others.
 - 🤷‍♂️ I don't care being judged.
 - 🌼 My Favourite song is dandelions by Ruth B.
 - 👨‍💻 I like to code.
