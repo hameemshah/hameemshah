@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @hameemshah
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on react
-- 📫 E-Mail at hameemhussain@yahoo.com
-- 🎧 I like pop music.
-- 🫧 I prefer people with charisma, good communication skills, confident and opinionated.
-- 🤮 I hate people who always judge others.
-- 🤷‍♂️ I don't care being judged.
-- 🌼 My Favourite song is dandelions by Ruth B.
+- 👋 Hi, I’m @hameemshah.
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on react.
+- 📫 E-Mail at hameemhussain@yahoo.com.
+- 🎧 My favourite genere is pop.
+- 🫧 I like opnionated people with charisma, maturaity confidence and style.
 - 👨‍💻 I like to code.
