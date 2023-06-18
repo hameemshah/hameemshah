@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hameemshah.
 - 👀 I’m interested in learning.
-- 🌱 I’m currently researcing on drug abuse and sexually transmitted diseases.
+- 🌱 I’m currently researching on drug abuse and sexually transmitted diseases.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 E-Mail at hameemhussain@yahoo.com.
 - 🎧 My favourite genere is pop.
